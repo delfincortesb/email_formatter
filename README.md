@@ -11,7 +11,7 @@ Option to write the formatted list to a file
 
 ## Usage
 
-Clone the repository: git clone https://github.com/username/Email-List-Formatter.git
+Clone the repository: git clone https://github.com/delfincortesb/Email-List-Formatter.git
 Navigate to the directory: cd Email-List-Formatter
 
 ## Contribute

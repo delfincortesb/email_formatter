@@ -11,10 +11,14 @@ Option to write the formatted list to a file
 
 ## Usage
 
+Go to https://email-list-formatter.vercel.app/
+
+---
+
 - Clone the repository: git clone https://github.com/delfincortesb/email_list_formatter.git
 - Navigate to the directory: cd email_list_formatter
 - Run ```npm run dev```
-- Paste your email list and copy the formatted version ✅
+- Done!✅ Paste your email list and copy the formatted version
 
 ## Contribute
 
